@@ -41,4 +41,4 @@ s = "Hello, world!"
 print(s[7:12])
 print(s[-6:-1])
 print(s[7:-1])
-print(s[-6:12]) 
+print(s[-6:12])
